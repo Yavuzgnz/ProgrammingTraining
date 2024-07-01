@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9abefc3-4393-43e3-baa7-449a4e04bb58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day02/CarRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day03/VarIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day04/data_types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day04/floatNumberExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day04/implicitCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day04/randomNumbers.java" afterDir="false" />
+    <list default="true" id="e9abefc3-4393-43e3-baa7-449a4e04bb58" name="Changes" comment="&quot;Second Commit&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jarvis/day06/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Yavuzgnz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yavuzgnz/ProgrammingTraining.git",
+    "accountId": "39c74e5b-9b7c-4068-82d6-2f5f369bf0f4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,6 +50,8 @@
     "Application.CarRunner.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PlusOne.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.Test01.executor": "Run",
     "Application.VarIntro.executor": "Run",
     "Application.data_types.executor": "Run",
     "Application.floatNumberExample.executor": "Run",
@@ -93,9 +94,22 @@
       <workItem from="1719152051127" duration="7116000" />
       <workItem from="1719500112902" duration="22130000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Second Commit&quot;">
+      <option name="closed" value="true" />
+      <created>1719752824230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719752824230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Second Commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Second Commit&quot;" />
   </component>
 </project>
